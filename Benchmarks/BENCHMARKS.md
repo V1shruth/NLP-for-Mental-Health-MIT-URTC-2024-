@@ -6,4 +6,6 @@ This project uses results of a Logistic Regresstion with TF-IDF model from a stu
 
 Their results are shown in Log Reg with TF-IDF.png
 
+You can read their study in great detail at https://arxiv.org/abs/2305.05325 
+
 
